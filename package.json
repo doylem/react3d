@@ -1,0 +1,30 @@
+{
+  "name": "react3d",
+  "version": "0.0.0",
+  "description": "A react-canvas, first person 3D game",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/doylem/react3d.git"
+  },
+  "author": "Matthew Doyle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doylem/react3d/issues"
+  },
+  "homepage": "https://github.com/doylem/react3d",
+  "devDependencies": {
+    "babel-core": "^4.7.4",
+    "babel-loader": "^4.1.0",
+    "react-hot-loader": "^1.2.2",
+    "webpack": "^1.7.2",
+    "webpack-dev-server": "^1.7.0"
+  },
+  "dependencies": {
+    "react": "^0.13.0"
+  }
+}
